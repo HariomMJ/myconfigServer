@@ -1,1 +1,2 @@
-hello
+service.url:
+  defaultZone: http://google
